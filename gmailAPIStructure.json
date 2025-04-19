@@ -1,0 +1,33 @@
+{
+    "nextPageToken": "A String", 
+    "resultSizeEstimate": 42,
+    "messages": [
+        { 
+        "internalDate": "A String", 
+        "historyId": "A String", 
+        "payload": {
+            "body": {
+                "data": "A String", 
+                "attachmentId": "A String", 
+                "size": 42 
+            },
+            "mimeType": "A String", 
+            "partId": "A String", 
+            "filename": "A String", 
+            "headers": [
+                {
+                    "name": "A String", 
+                    "value": "A String"
+                }
+            ],
+            "parts": []
+        },
+        "snippet": "A String", 
+        "raw": "A String", 
+        "sizeEstimate": 42, 
+        "threadId": "A String", 
+        "labelIds": ["A String"],
+        "id": "A String" 
+        }
+    ]
+}
