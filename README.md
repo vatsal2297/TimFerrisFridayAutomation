@@ -1,6 +1,6 @@
 # TFF Bullets Email Automation
 
-This project automates the process of scraping and collecting TFF bullet emails from your inbox for archival purposes. It saves these emails in a database (MySQL in this case), which is then accessed by a [Web Application](https://bitbucket.org/vatsal97/tff_bullets_email_archive_app/src/main/) to display them on the user interface. It streamlines the workflow by integrating data collection, formatting, and loading email data into the database as part of a single automated pipeline.
+This project automates the process of scraping and collecting TFF bullet emails from your inbox for archival purposes. It saves these emails in a database (MySQL in this case), which is then accessed by a [Web Application](https://github.com/vatsal2297/Tim-Ferriss-Bullet-Friday-Archive) to display them on the user interface. It streamlines the workflow by integrating data collection, formatting, and loading email data into the database as part of a single automated pipeline.
 
 ---
 
